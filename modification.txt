@@ -1,0 +1,7 @@
+# to modify your own name in the web app
+
+open Templates--> main.html
+
+Goto Line-75
+
+82 --> Change your name
